@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm passionate about programming, open-source software, and technology. Here's a little bit about me:
 
-## 👨‍💻 Interests:
+##  Interests:
 - **Linux**: I love using and exploring Linux-based systems.
 - **Rust**: I'm deep into learning and working with Rust to build secure and efficient software.
 - **Programming**: I enjoy solving problems and building projects in various programming languages, with a focus on Rust.
