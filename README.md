@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm passionate about programming, open-source software, an
 - **FOSS (Free and Open Source Software)**: I believe in the power of open-source communities and contribute whenever I can.
 
 ## 💼 Work:
-Currently, I’m working towards my **application development degree** in **IT Specialist (Fachinformatiker Anwendungsentwicklung)** in Germany (Bavaria). I’m gaining hands-on experience in software development while learning the ins and outs of coding and problem-solving.
+Currently, I’m working towards my **software development degree** as an **IT Specialist (Fachinformatiker Anwendungsentwicklung)** in Germany (Bavaria). I’m gaining hands-on experience in software development while learning the ins and outs of coding and problem-solving.
 
 ## 🌍 Location:
 I’m based in **Bavaria, Germany**. I enjoy the balance of the vibrant tech scene and the calm of the countryside.
