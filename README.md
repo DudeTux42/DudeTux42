@@ -12,9 +12,6 @@ Welcome to my GitHub! I'm passionate about programming, open-source software, an
 ## 💼 Work:
 Currently, I’m working towards my **software development degree** as an **IT Specialist (Fachinformatiker Anwendungsentwicklung)** in Germany (Bavaria). I’m gaining hands-on experience in software development while learning the ins and outs of coding and problem-solving.
 
-## 🌍 Location:
-I’m based in **Bavaria, Germany**. I enjoy the balance of the vibrant tech scene and the calm of the countryside.
-
 ## 🎯 Goals:
 - **Improve my Rust skills**: I’m focused on becoming more proficient and secure with Rust to build reliable, performant applications.
 - **Contribute to the FOSS community**: I want to give back by contributing to open-source projects that help others and advance the tech ecosystem.
